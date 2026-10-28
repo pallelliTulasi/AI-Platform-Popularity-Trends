@@ -36,7 +36,7 @@ This project uses Power BI to visualize AI platform search trends over time, com
 
 <!-- Add your dashboard screenshot here after uploading it to this repository -->
 
-![AI Platform Popularity Trends Dashboard](dashboard.png)
+![AI Platform Popularity Trends Dashboard](./Dashboard.png)
 
 ## 📂 Project Structure
 
